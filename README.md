@@ -6,6 +6,6 @@ Source Code: [GitHub](https://github.com/umairacheema/covid-19)
 
 ### Contact
 
-[LinkedIn:](https://www.linkedin.com/in/umairacheema)
+LinkedIn:[https://www.linkedin.com/in/umairacheema](https://www.linkedin.com/in/umairacheema)
 
 Twitter:@umairacheema
