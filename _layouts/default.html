@@ -17,7 +17,7 @@
     <meta name="viewport" content="width=1024">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta property='og:image' content="http://umairacheema.github.io/covid-19/assets/images/covid19.jpg"/>
+    <meta property='og:image' content="http://visualinfo.org/covid-19/assets/images/covid19.jpg"/>
 
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -25,7 +25,7 @@
   <body>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name">{{ site.title | default: site.title  }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
     </header>
