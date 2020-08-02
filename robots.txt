@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 
 
-Sitemap: http://www.visualinfo.org/sitemap.xml
+Sitemap: http://visualinfo.org/sitemap.xml
 
